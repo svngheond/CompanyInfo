@@ -85,7 +85,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Library\APIUrl.cs" />
-    <Compile Include="Library\XuLy.cs" />
+    <Compile Include="Library\Library.cs" />
     <Compile Include="Models\DoanhNghiepModel.cs" />
     <Compile Include="Models\ResultDiaBan.cs" />
     <Compile Include="Models\DoanhNghiep.cs" />
